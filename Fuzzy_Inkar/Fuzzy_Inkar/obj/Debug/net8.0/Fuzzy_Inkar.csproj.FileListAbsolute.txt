@@ -1,0 +1,14 @@
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_Inkar\Fuzzy_Inkar\bin\Debug\net8.0\Fuzzy_Inkar.exe
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_Inkar\Fuzzy_Inkar\bin\Debug\net8.0\Fuzzy_Inkar.deps.json
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_Inkar\Fuzzy_Inkar\bin\Debug\net8.0\Fuzzy_Inkar.runtimeconfig.json
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_Inkar\Fuzzy_Inkar\bin\Debug\net8.0\Fuzzy_Inkar.dll
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_Inkar\Fuzzy_Inkar\bin\Debug\net8.0\Fuzzy_Inkar.pdb
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_Inkar\Fuzzy_Inkar\obj\Debug\net8.0\Fuzzy_Inkar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_Inkar\Fuzzy_Inkar\obj\Debug\net8.0\Fuzzy_Inkar.AssemblyInfoInputs.cache
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_Inkar\Fuzzy_Inkar\obj\Debug\net8.0\Fuzzy_Inkar.AssemblyInfo.cs
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_Inkar\Fuzzy_Inkar\obj\Debug\net8.0\Fuzzy_Inkar.csproj.CoreCompileInputs.cache
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_Inkar\Fuzzy_Inkar\obj\Debug\net8.0\Fuzzy_Inkar.dll
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_Inkar\Fuzzy_Inkar\obj\Debug\net8.0\refint\Fuzzy_Inkar.dll
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_Inkar\Fuzzy_Inkar\obj\Debug\net8.0\Fuzzy_Inkar.pdb
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_Inkar\Fuzzy_Inkar\obj\Debug\net8.0\Fuzzy_Inkar.genruntimeconfig.cache
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_Inkar\Fuzzy_Inkar\obj\Debug\net8.0\ref\Fuzzy_Inkar.dll

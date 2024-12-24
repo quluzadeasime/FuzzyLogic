@@ -1,0 +1,14 @@
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_intersection\Fuzzy_intersection\bin\Debug\net8.0\Fuzzy_intersection.exe
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_intersection\Fuzzy_intersection\bin\Debug\net8.0\Fuzzy_intersection.deps.json
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_intersection\Fuzzy_intersection\bin\Debug\net8.0\Fuzzy_intersection.runtimeconfig.json
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_intersection\Fuzzy_intersection\bin\Debug\net8.0\Fuzzy_intersection.dll
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_intersection\Fuzzy_intersection\bin\Debug\net8.0\Fuzzy_intersection.pdb
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_intersection\Fuzzy_intersection\obj\Debug\net8.0\Fuzzy_intersection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_intersection\Fuzzy_intersection\obj\Debug\net8.0\Fuzzy_intersection.AssemblyInfoInputs.cache
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_intersection\Fuzzy_intersection\obj\Debug\net8.0\Fuzzy_intersection.AssemblyInfo.cs
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_intersection\Fuzzy_intersection\obj\Debug\net8.0\Fuzzy_intersection.csproj.CoreCompileInputs.cache
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_intersection\Fuzzy_intersection\obj\Debug\net8.0\Fuzzy_intersection.dll
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_intersection\Fuzzy_intersection\obj\Debug\net8.0\refint\Fuzzy_intersection.dll
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_intersection\Fuzzy_intersection\obj\Debug\net8.0\Fuzzy_intersection.pdb
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_intersection\Fuzzy_intersection\obj\Debug\net8.0\Fuzzy_intersection.genruntimeconfig.cache
+C:\Users\Asime\Desktop\Fuzzy\Fuzzy_intersection\Fuzzy_intersection\obj\Debug\net8.0\ref\Fuzzy_intersection.dll

@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asime\\Desktop\\Fuzzy\\Fuzzy_intersection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{172C6C37-2297-4411-BAA6-7ADAF4C2C49C}|Fuzzy_intersection\\Fuzzy_intersection.csproj|c:\\users\\asime\\desktop\\fuzzy\\fuzzy_intersection\\fuzzy_intersection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172C6C37-2297-4411-BAA6-7ADAF4C2C49C}|Fuzzy_intersection\\Fuzzy_intersection.csproj|solutionrelative:fuzzy_intersection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1114,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asime\\Desktop\\Fuzzy\\Fuzzy_intersection\\Fuzzy_intersection\\Program.cs",
+              "RelativeDocumentMoniker": "Fuzzy_intersection\\Program.cs",
+              "ToolTip": "C:\\Users\\Asime\\Desktop\\Fuzzy\\Fuzzy_intersection\\Fuzzy_intersection\\Program.cs",
+              "RelativeToolTip": "Fuzzy_intersection\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:56:34.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

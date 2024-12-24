@@ -1,0 +1,14 @@
+C:\Users\Asime\Desktop\Project\Fuzzy\Fuzzy\bin\Debug\net8.0\Fuzzy.exe
+C:\Users\Asime\Desktop\Project\Fuzzy\Fuzzy\bin\Debug\net8.0\Fuzzy.deps.json
+C:\Users\Asime\Desktop\Project\Fuzzy\Fuzzy\bin\Debug\net8.0\Fuzzy.runtimeconfig.json
+C:\Users\Asime\Desktop\Project\Fuzzy\Fuzzy\bin\Debug\net8.0\Fuzzy.dll
+C:\Users\Asime\Desktop\Project\Fuzzy\Fuzzy\bin\Debug\net8.0\Fuzzy.pdb
+C:\Users\Asime\Desktop\Project\Fuzzy\Fuzzy\obj\Debug\net8.0\Fuzzy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asime\Desktop\Project\Fuzzy\Fuzzy\obj\Debug\net8.0\Fuzzy.AssemblyInfoInputs.cache
+C:\Users\Asime\Desktop\Project\Fuzzy\Fuzzy\obj\Debug\net8.0\Fuzzy.AssemblyInfo.cs
+C:\Users\Asime\Desktop\Project\Fuzzy\Fuzzy\obj\Debug\net8.0\Fuzzy.csproj.CoreCompileInputs.cache
+C:\Users\Asime\Desktop\Project\Fuzzy\Fuzzy\obj\Debug\net8.0\Fuzzy.dll
+C:\Users\Asime\Desktop\Project\Fuzzy\Fuzzy\obj\Debug\net8.0\refint\Fuzzy.dll
+C:\Users\Asime\Desktop\Project\Fuzzy\Fuzzy\obj\Debug\net8.0\Fuzzy.pdb
+C:\Users\Asime\Desktop\Project\Fuzzy\Fuzzy\obj\Debug\net8.0\Fuzzy.genruntimeconfig.cache
+C:\Users\Asime\Desktop\Project\Fuzzy\Fuzzy\obj\Debug\net8.0\ref\Fuzzy.dll
